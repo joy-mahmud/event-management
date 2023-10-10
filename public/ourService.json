@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Wedding Planning",
+        "img": "https://i.ibb.co/F455HrX/shelly-pence-Gc-W93-Uuljgo-unsplash.jpg",
+        "price": "$5,000 - $20,000",
+        "shortDescription": "Crafting dream weddings tailored to your vision.",
+        "longDescription": "Our expert wedding planners work closely with couples to create the perfect wedding day. From venue selection to decor and entertainment, we take care of every detail."
+    },
+    {
+        "id": 2,
+        "title": "Birthday Parties",
+        "img": "https://i.ibb.co/RH8Bv9v/arjun-mj-UEei-Ze-KFlks-unsplash.jpg",
+        "price": "$1,000 - $5,000",
+        "shortDescription": "Fun and themed birthday celebrations for all ages.",
+        "longDescription": "Whether it's a child's first birthday or a milestone celebration, we design and organize birthday parties that leave a lasting impression."
+    },
+    {
+        "id":3,
+        "title": "Corporate Mixers",
+        "img": "https://i.ibb.co/yFSDwdb/evangeline-shaw-nw-LTVwb7-Db-U-unsplash.jpg",
+        "price": "$2,500 - $10,000",
+        "shortDescription": "Engaging corporate events that foster networking.",
+        "longDescription": "Our corporate mixers bring professionals together in a relaxed atmosphere. We handle logistics, entertainment, and activities to ensure productive connections."
+    },
+    {
+        "id":4,
+        "title": "Holiday Celebrations",
+        "img": "https://i.ibb.co/6sQm0K6/brooke-lark-Hj-Wzkq-W1dg-I-unsplash.jpg",
+        "price": "$1,500 - $7,500",
+        "shortDescription": "Festive holiday events for families and friends.",
+        "longDescription": "Celebrate holidays in style with our themed events. From Halloween parties to New Year's Eve galas, we create memorable experiences."
+    },
+    {
+        "id":5,
+        "title": "Anniversary Specials",
+        "img": "https://i.ibb.co/dj6Lfyz/jacob-antony-Ns-mp1-MTs-I8-unsplash.jpg",
+        "price": "$3,000 - $12,000",
+        "shortDescription": "Romantic anniversary celebrations for couples.",
+        "longDescription": "Mark your special milestones with our anniversary packages. We plan intimate and unforgettable experiences for you and your loved one."
+    },
+    {
+        "id":6,
+        "title": "Cultural Festivals",
+        "img": "https://i.ibb.co/jfzQQjT/pablo-heimplatz-ZODc-Bk-Eohk8-unsplash-1.jpg",
+        "price": "$5,000 - $25,000",
+        "shortDescription": "Celebrating diversity through cultural festivals.",
+        "longDescription": "Promote cultural understanding and unity with our cultural festival management services. We organize events that showcase traditions and heritage."
+    }
+]

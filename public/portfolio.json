@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "eventName": "Spring Garden Party",
+      "description": "A vibrant garden party with live music and delicious cuisine.",
+      "image": "https://i.ibb.co/ssLZL98/sirio-hm3ef-UMo-Reg-unsplash.jpg",
+      "date": "2023-04-15",
+      "location": "Sunny Meadows Gardens"
+    },
+    {
+      "id": "2",
+      "eventName": "Masquerade Ball",
+      "description": "An enchanting masquerade ball with elegant masks and dancing.",
+      "image": "https://i.ibb.co/mbx4XTz/nicole-geri-E4-S2-V5m-V4-Yc-unsplash.jpg",
+      "date": "2022-11-20",
+      "location": "Grand Ballroom, Crystal Palace"
+    },
+    {
+      "id": "3",
+      "eventName": "Summer Beach Bash",
+      "description": "A lively beach party with beach games and a bonfire.",
+      "image": "https://i.ibb.co/GvCzsZ2/priscilla-du-preez-W3-SEy-ZODn8-U-unsplash.jpg",
+      "date": "2023-07-08",
+      "location": "Sandy Shores Beach"
+    },
+    {
+      "id": "4",
+      "eventName": "Winter Wonderland Gala",
+      "description": "A magical winter gala with ice sculptures and a snowy atmosphere.",
+      "image": "https://i.ibb.co/rx28c8V/kelsey-chance-Zrht-Qy-GFG6s-unsplash.jpg",
+      "date": "2022-12-18",
+      "location": "Frosty Manor Estates"
+    },
+    {
+      "id": "5",
+      "eventName": "Carnival Extravaganza",
+      "description": "A colorful carnival with rides, games, and delicious treats.",
+      "image": "https://i.ibb.co/JmRhdvC/andrii-olishevskyi-i-Tc58-VLTt-Ew-unsplash.jpg",
+      "date": "2023-08-27",
+      "location": "Joyful Park Fairgrounds"
+    },
+    {
+        "id": "6",
+        "eventName": "Summer Beach Bash",
+        "description": "A lively beach party with beach games and a bonfire.",
+        "image": "https://i.ibb.co/jgK0R5z/photos-by-lanty-O38-Id-cy-V4-M-unsplash.jpg",
+        "date": "2023-07-08",
+        "location": "Sandy Shores Beach"
+      }
+  ]

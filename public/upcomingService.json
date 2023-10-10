@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Engagement Parties",
+    "img": "https://i.ibb.co/Z6QmwKG/esther-tuttle-0-U-d-Xov-BS2-E-unsplash.jpg",
+    "price": "$1,500 - $6,000",
+    "shortDescription": "Elegant engagement celebrations to mark new beginnings.",
+    "longDescription": "Let us create the perfect atmosphere for your engagement party. Whether it's an intimate gathering or a grand affair, we'll ensure your special moment is memorable."
+  },
+  
+  {
+    "id": "2",
+    "title": "Charity Fundraisers",
+    "img": "https://i.ibb.co/Vg0LWcJ/joel-muniz-A4-Ax1-Apccf-A-unsplash.jpg",
+    "price": "$1,500 - $4000",
+    "shortDescription": "Organizing impactful charity events to support noble causes.",
+    "longDescription": "We specialize in planning charity fundraisers that make a difference. From galas to charity auctions, we'll help you raise funds and awareness for your chosen cause."
+  }
+]
+  
